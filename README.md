@@ -16,7 +16,7 @@
 13. Then the code is compiled successfully but microphone is not working now.
 14. To test the microphone is not broken this repo is used and the code is runned on esp32s3: https://github.com/atomic14/esp32-i2s-mic-test. After running code the serial screen is giving output and microphone is okay.
 15. After running sound recognition code on esp32s3 the it was noticed that the accent is important in order to wake the device. With google translate, wake word is played. Then the device waked up and executing instructions on switch cases.
-![circuit1](img/circuit1.jpeg)
-![circuit2](img/circuit2.jpeg)
-![circuit3](img/circuit3.jpeg)
-![circuit4](img/circuit4.jpeg)
+<img src="img/circuit1.jpeg" style="width:100%"/>
+<img src="img/circuit2.jpeg" style="width:100%"/>
+<img src="img/circuit3.jpeg" style="width:100%"/>
+<img src="img/circuit4.jpeg" style="width:100%"/>
